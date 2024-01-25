@@ -2,7 +2,7 @@
 An experiment learning Haskell comparing similar code in Ocaml
 
 ## Warning
-Hopefully, I will fill this repository before mid-July 2023.
+Hopefully, I will fill this repository later (delayed).
 
 ## Description
 
